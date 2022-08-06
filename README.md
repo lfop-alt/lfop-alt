@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Luiz Oliveira</h1>
 <h3 align="center">Apaixnado por tecnologias e infraestrutura</h3>
 
-- 🌱 Atualmente estou aprendendo **Java e Cloud**
+- 🌱 Atualmente estou aprendendo **NodeJS** e **Cloud**
 
 - 👨‍💻 Todos os meus projetos estão disponiveis em [https://github.com/lfop-alt?tab=repositories](https://github.com/lfop-alt?tab=repositories)
 
@@ -9,7 +9,7 @@
 
 - 📄 Minhas Experiencias [https://www.linkedin.com/in/luiz-fernando-oliveira-b734a7160/](https://www.linkedin.com/in/luiz-fernando-oliveira-b734a7160/)
 
-- ⚡ Curiosidade **Gosto de cachorros como gosto de técnologia e gosto de administração.**
+- ⚡ Curiosidade **Gosto de gatos como gosto de técnologia <3 **
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
