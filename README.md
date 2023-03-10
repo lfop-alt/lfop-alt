@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Luiz Oliveira</h1>
 <h3 align="center">Apaixnado por tecnologias e infraestrutura</h3>
 
-- 🌱 Atualmente estou aprendendo **NodeJS** e **Cloud**
+- 🌱 Atualmente estou aprendendo **Java** e **Spring Boot**
 
 - 👨‍💻 Todos os meus projetos estão disponiveis em [https://github.com/lfop-alt?tab=repositories](https://github.com/lfop-alt?tab=repositories)
 
