@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfop-alt&label=Profile%20views&color=0e75b6&style=flat" alt="lfop-alt" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Java e Spring Boot**
+- 🌱 Atualmente estou aprendendo **Flutter**
 
 - 👨‍💻 Todos os meus projetos estão disponiveis em [https://github.com/lfop-alt?tab=repositories](https://github.com/lfop-alt?tab=repositories)
 
